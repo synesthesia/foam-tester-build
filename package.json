@@ -6,7 +6,7 @@
   "author": "Julian Elve <julian@elve.co.uk>",
   "dependencies": {
     "@pauliescanlon/gatsby-mdx-embed": "^0.0.21",
-    "gatsby": "^2.21.22",
+    "gatsby": "^4.25.7",
     "gatsby-theme-garden": "^0.1.41",
     "react": "^16.3.1",
     "react-dom": "^16.3.1"
